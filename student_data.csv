@@ -1,0 +1,48 @@
+﻿serial_no,Student,mentor_name,maths_marks,science_marks,english_marks,history_marks,sports_marks,gross_marks,mentor_rating,language,age_yrs,height_cm,country,hobbies
+1,Ola,Sagar,70,73,77,94,87,401,7,English,15,142,USA,Basketball
+2,Ruby,Phillip,74,77,90,81,79,401,8,English,14,143,USA,Singing
+3,Aimee,Vincia,87,90,80,87,86,430,9,English,17,144,USA,Movies
+4,Olivia,Mark,77,80,94,79,87,417,7,English,18,137,USA,
+5,Otis,Milly,91,94,81,86,82,434,7,,17,133,USA,Badminton
+6,Maeve,Oven,78,81,87,87,90,333,8,,18,140,USA,Novel
+7,,Kevin,84,,,,,84,8,,16,,,
+8,Eric,Vincia,76,79,76,90,88,319,6,English,17,155,USA,Handball
+9,Isaac,Mark,83,86,83,81,98,431,9,English,18,156,Canada,Badminton
+10,Rahim,Milly,84,87,84,88,75,418,9,Hindi,15,161,India,Novel
+11,Dan,Oven,79,82,79,98,81,419,8,English,16,159,USA,Music
+12,,,,,,,,,,,,,,
+13,Chandan,Milly,78,81,78,81,98,416,6,Hindi,18,159,India,
+14,Rochelle,Oven,85,88,85,88,90,436,9,English,17,138,USA,Badminton
+15,Sebastian,Kevin,95,98,95,98,75,461,6,,18,151,USA,Novel
+16,Elvin,Vincia,72,75,72,90,78,387,9,,16,155,USA,Music
+17,,Mark,,,,,,,8,,,,USA,
+18,Rob,Milly,74,77,74,78,79,382,8,English,18,161,USA,
+19,Fiefen,,78,59,77,88,78,225,6,English,17,161,USA,Novel
+20,Vijay,,79,82,79,79,85,404,9,Hindi,18,159,India,Handball
+21,Sonia,Sagar,78,81,82,78,95,414,9,Hindi,16,148,India,Badminton
+22,William,Phillip,85,88,81,85,90,339,8,English,14,151,USA,Table Tennis
+23,Michael,Milly,95,98,88,95,72,448,9,English,17,155,USA,Table Tennis
+24,,Oven,,90,98,,,188,7,English,,,,
+25,Sandra,Kevin,72,75,80,72,72,371,7,,17,145,USA,Table Tennis
+26,Ryan,Vincia,75,78,82,75,75,385,8,,18,155,USA,Chatting
+27,Sam,,85,88,81,85,85,424,8,English,16,156,Canada,Handball
+28,Vin,Milly,79,82,88,79,79,407,6,English,17,161,USA,Badminton
+29,Adam,Oven,78,81,78,78,78,393,9,English,18,159,USA,Novel
+30,Dana,Kevin,85,88,85,85,85,428,9,English,18,171,USA,Handball
+31,Harvey,Milly,95,98,95,95,95,478,8,English,17,159,USA,Badminton
+32,Norway,Oven,72,75,72,72,72,363,9,English,18,148,USA,Table Tennis
+33,,,,3,,,,3,7,English,,155,Canada,
+34,Vince,Vincia,86,89,88,86,86,435,8,English,14,156,Auckland,Novel
+35,Roman,Mark,79,82,98,79,79,417,8,English,17,161,Auckland,Table Tennis
+36,Wayne,Milly,78,81,90,78,78,405,6,English,,159,Auckland,Chatting
+37,Ajay,Oven,85,88,75,85,88,421,9,Hindi,17,171,India,Handball
+38,Vijay,Kevin,95,98,78,95,78,444,9,Hindi,18,159,India,Badminton
+39,,,,,,,,,,,,,,
+40,Pankaj,Milly,79,82,82,79,95,417,9,Hindi,17,159,India,Chatting
+41,Shubham,Oven,78,81,81,78,72,390,7,Hindi,18,,India,Handball
+42,Shubhra,Kevin,85,88,88,85,90,346,6,Hindi,17,148,India,Badminton
+43,Vikas,Sagar,95,98,98,95,88,474,9,Hindi,,159,India,Novel
+44,Mayank,Phillip,81,84,84,81,98,428,9,Hindi,17,171,India,Handball
+45,A,,84,88,88,85,90,84,,,16,,,
+46,b,,84,88,88,85,90,84,,,16,,India,
+48,x,,84,88,88,85,90,84,,,16,,,
